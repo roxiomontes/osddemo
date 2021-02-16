@@ -4,6 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 test
 
 In the project directory, you can run:
+test
 
 ### `yarn start`
 
